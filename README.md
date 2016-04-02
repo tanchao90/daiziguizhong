@@ -10,7 +10,8 @@
 
 微信ID: **daiziguizhongren**  
 二维码:  
-![daiziguizhongren](https://github.com/tanchao90/daiziguizhong/blob/master/res/daiziguizhongren.jpg)
+<center>![daiziguizhongren](https://github.com/tanchao90/daiziguizhong/blob/master/res/daiziguizhongren.jpg)</center>
+
 
 # 仓库内容
 - 实现订阅号中部分文章的算法
