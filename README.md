@@ -6,11 +6,11 @@
 - 写写算法练练手
 
 # 待字闺中
-
 了解国内外，最新最全的面试经验，最新的最有趣的面试题。
 
-微信ID: **daiziguizhongren**
-二维码： ![daiziguizhongren](https://github.com/tanchao90/daiziguizhong/blob/master/res/daiziguizhongren.jpg)
+微信ID: **daiziguizhongren**  
+二维码:  
+![daiziguizhongren](https://github.com/tanchao90/daiziguizhong/blob/master/res/daiziguizhongren.jpg)
 
 # 仓库内容
 - 实现订阅号中部分文章的算法
