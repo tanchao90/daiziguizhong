@@ -17,7 +17,7 @@
 - 实现订阅号中部分文章的算法
 - 语言：Python 2.7
 - 编辑器：Sublime Text 3
-	- 插件：Python Flake8 Lint（用于检查代码格式）
+	- 插件：Python Flake8 Lint（关闭了PEP8检查，主要用于检查代码错误）
 
 # 相关连接
 [待字闺中--微信公众账号--传送门](http://chuansong.me/account/daiziguizhongren)
