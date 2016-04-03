@@ -10,12 +10,14 @@
 
 微信ID: **daiziguizhongren**  
 二维码:  
-<center>![daiziguizhongren](https://github.com/tanchao90/daiziguizhong/blob/master/res/daiziguizhongren.jpg)</center>
+![daiziguizhongren](https://github.com/tanchao90/daiziguizhong/blob/master/res/daiziguizhongren.jpg)
 
 
 # 仓库内容
 - 实现订阅号中部分文章的算法
 - 语言：Python 2.7
+- 编辑器：Sublime Text 3
+	- 插件：Python Flake8 Lint（用于检查代码格式）
 
 # 相关连接
 [待字闺中--微信公众账号--传送门](http://chuansong.me/account/daiziguizhongren)
